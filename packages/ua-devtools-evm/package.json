@@ -59,7 +59,7 @@
     "tslib": "~2.6.2",
     "tsup": "~8.0.1",
     "typescript": "^5.4.4",
-    "zod": "^3.22.4"
+    "zod": "^4.6.6"
   },
   "peerDependencies": {
     "@ethersproject/constants": "^5.7.0",
@@ -72,7 +72,7 @@
     "@layerzerolabs/protocol-devtools": "~3.0.2",
     "@layerzerolabs/protocol-devtools-evm": "~5.0.2",
     "@layerzerolabs/ua-devtools": "~5.0.2",
-    "zod": "^3.22.4"
+    "zod": "^4.6.6"
   },
   "publishConfig": {
     "access": "public"
